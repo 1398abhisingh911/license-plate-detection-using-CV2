@@ -3,7 +3,7 @@
 <p>
 	<h2>Working</h2>
 		<br>
-        <img  src="output1.png" width="100%" >
+        <img  src="output.png" width="100%" >
 		<br>
         <img src="output2.png" width=100%" >
 		<br>
